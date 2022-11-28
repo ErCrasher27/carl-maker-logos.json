@@ -10,5 +10,9 @@
     {
         "name": "Ferrari",
         "logo": "https://www.carlogos.org/car-logos/ferrari-logo.png"
+    },
+    {
+        "name": "Seat",
+        "logo": "https://www.carlogos.org/car-logos/seat-logo.png"
     }
 ]
