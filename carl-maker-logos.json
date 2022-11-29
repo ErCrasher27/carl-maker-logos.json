@@ -86,5 +86,109 @@
     {
         "name": "Citroen",
         "logo": "https://www.carlogos.org/car-logos/citroen-logo.png"
+    },
+    {
+        "name": "Honda",
+        "logo": "https://www.carlogos.org/car-logos/honda-logo.png"
+    },
+    {
+        "name": "Mazda",
+        "logo": "https://www.carlogos.org/car-logos/mazda-logo.png"
+    },
+    {
+        "name": "Smart",
+        "logo": "https://www.carlogos.org/car-logos/smart-logo.png"
+    },
+    {
+        "name": "Aixam",
+        "logo": "https://www.carlogos.org/car-logos/aixam-logo.png"
+    },
+    {
+        "name": "Toyota",
+        "logo": "https://www.carlogos.org/car-logos/toyota-logo.png"
+    },
+    {
+        "name": "Lexus",
+        "logo": "https://www.carlogos.org/car-logos/lexus-logo.png"
+    },
+    {
+        "name": "Mitsubishi",
+        "logo": "https://www.carlogos.org/car-logos/mitsubishi-logo.png"
+    },
+    {
+        "name": "Acura",
+        "logo": "https://www.carlogos.org/car-logos/acura-logo.png"
+    },
+    {
+        "name": "Isuzu",
+        "logo": "https://www.carlogos.org/car-logos/isuzu-logo.png"
+    },
+    {
+        "name": "Suzuki",
+        "logo": "https://www.carlogos.org/car-logos/suzuki-logo.png"
+    },
+    {
+        "name": "Infiniti",
+        "logo": "https://www.carlogos.org/car-logos/infiniti-logo.png"
+    },
+    {
+        "name": "Saab",
+        "logo": "https://www.carlogos.org/car-logos/saab-logo.png"
+    },
+    {
+        "name": "Porsche",
+        "logo": "https://www.carlogos.org/car-logos/porsche-logo.png"
+    },
+    {
+        "name": "Kia",
+        "logo": "https://www.carlogos.org/car-logos/kia-logo.png"
+    },
+    {
+        "name": "Daewoo",
+        "logo": "https://www.carlogos.org/car-logos/daewoo-logo.png"
+    },
+    {
+        "name": "Mini",
+        "logo": "https://www.carlogos.org/car-logos/mini-logo.png"
+    },
+    {
+        "name": "Land Rover",
+        "logo": "https://www.carlogos.org/car-logos/land-rover-logo.png"
+    },
+    {
+        "name": "Alfa Romeo",
+        "logo": "https://www.carlogos.org/car-logos/alfa-romeo-logo.png"
+    },
+    {
+        "name": "Subaru",
+        "logo": "https://www.carlogos.org/car-logos/subaru-logo.png"
+    },
+    {
+        "name": "Bentley",
+        "logo": "https://www.carlogos.org/car-logos/bentley-logo.png"
+    },
+    {
+        "name": "Chery",
+        "logo": "https://www.carlogos.org/car-logos/chery-logo.png"
+    },
+    {
+        "name": "Diatto",
+        "logo": "https://www.carlogos.org/car-logos/diatto-logo.png"
+    },
+    {
+        "name": "Pagani",
+        "logo": "https://www.carlogos.org/car-logos/pagani-logo.png"
+    },
+    {
+        "name": "Jeep",
+        "logo": "https://www.carlogos.org/car-logos/jeep-logo.png"
+    },
+    {
+        "name": "Lotus",
+        "logo": "https://www.carlogos.org/car-logos/lotus-logo.png"
+    },
+    {
+        "name": "Daihatsu",
+        "logo": "https://www.carlogos.org/car-logos/daihatsu-logo.png"
     }
 ]
