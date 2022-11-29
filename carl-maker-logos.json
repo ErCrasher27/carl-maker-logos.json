@@ -14,5 +14,77 @@
     {
         "name": "Seat",
         "logo": "https://www.carlogos.org/car-logos/seat-logo.png"
+    },
+    {
+        "name": "Lancia",
+        "logo": "https://www.carlogos.org/car-logos/lancia-logo.png"
+    },
+    {
+        "name": "Opel",
+        "logo": "https://www.carlogos.org/car-logos/opel-logo.png"
+    },
+    {
+        "name": "Renault",
+        "logo": "https://www.carlogos.org/car-logos/renault-logo.png"
+    },
+    {
+        "name": "Fiat",
+        "logo": "https://www.carlogos.org/car-logos/fiat-logo.png"
+    },
+    {
+        "name": "Volkswagen",
+        "logo": "https://www.carlogos.org/car-logos/volkswagen-logo.png"
+    },
+    {
+        "name": "Peugeot",
+        "logo": "https://www.carlogos.org/car-logos/peugeot-logo.png"
+    },
+    {
+        "name": "Volvo",
+        "logo": "https://www.carlogos.org/car-logos/volvo-logo.png"
+    },
+    {
+        "name": "Ford",
+        "logo": "https://www.carlogos.org/car-logos/ford-logo.png"
+    },
+    {
+        "name": "Autobianchi",
+        "logo": "https://www.carlogos.org/car-logos/autobianchi-logo.png"
+    },
+    {
+        "name": "Ssangyong",
+        "logo": "https://www.carlogos.org/car-logos/ssangyong-logo.png"
+    },
+    {
+        "name": "Tata",
+        "logo": "https://www.carlogos.org/car-logos/tata-logo.png"
+    },
+    {
+        "name": "Hyundai",
+        "logo": "https://www.carlogos.org/car-logos/hyundai-logo.png"
+    },
+    {
+        "name": "Skoda",
+        "logo": "https://www.carlogos.org/car-logos/skoda-logo.png"
+    },
+    {
+        "name": "Innocenti",
+        "logo": "https://www.carlogos.org/car-logos/innocenti-logo.png"
+    },
+    {
+        "name": "Jaguar",
+        "logo": "https://www.carlogos.org/car-logos/jaguar-logo.png"
+    },
+    {
+        "name": "Chevrolet",
+        "logo": "https://www.carlogos.org/car-logos/chevrolet-logo.png"
+    },
+    {
+        "name": "Audi",
+        "logo": "https://www.carlogos.org/car-logos/audi-logo.png"
+    },
+    {
+        "name": "Citroen",
+        "logo": "https://www.carlogos.org/car-logos/citroen-logo.png"
     }
 ]
