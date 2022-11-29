@@ -190,5 +190,57 @@
     {
         "name": "Daihatsu",
         "logo": "https://www.carlogos.org/car-logos/daihatsu-logo.png"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "logo": "https://www.carlogos.org/car-logos/mercedes-benz-logo.png"
+    },
+    {
+        "name": "Maserati",
+        "logo": "https://www.carlogos.org/car-logos/maserati-logo.png"
+    },
+    {
+        "name": "Abarth",
+        "logo": "https://www.carlogos.org/car-logos/abarth-logo.png"
+    },
+    {
+        "name": "Mazzanti",
+        "logo": "https://www.carlogos.org/car-logos/mazzanti-logo.png"
+    },
+    {
+        "name": "Lamborghini",
+        "logo": "https://www.carlogos.org/car-logos/lamborghini-logo.png"
+    },
+    {
+        "name": "McLaren",
+        "logo": "https://www.carlogos.org/car-logos/mclaren-logo.png"
+    },
+    {
+        "name": "Vauxhall",
+        "logo": "https://www.carlogos.org/car-logos/vauxhall-logo.png"
+    },
+    {
+        "name": "MG",
+        "logo": "https://www.carlogos.org/car-logos/mg-logo.png"
+    },
+    {
+        "name": "Rolls-Royce",
+        "logo": "https://www.carlogos.org/car-logos/rolls-royce-logo.png"
+    },
+    {
+        "name": "Bugatti",
+        "logo": "https://www.carlogos.org/car-logos/bugatti-logo.png"
+    },
+    {
+        "name": "Ligier",
+        "logo": "https://www.carlogos.org/car-logos/ligier-logo.png"
+    },
+    {
+        "name": "Alpine",
+        "logo": "https://www.carlogos.org/car-logos/alpine-logo.png"
+    },
+    {
+        "name": "Dacia",
+        "logo": "https://www.carlogos.org/car-logos/dacia-logo.png"
     }
 ]
