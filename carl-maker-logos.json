@@ -242,5 +242,9 @@
     {
         "name": "Dacia",
         "logo": "https://www.carlogos.org/car-logos/dacia-logo.png"
+    },
+    {
+        "name": "Aston Martin",
+        "logo": "https://www.carlogos.org/car-logos/aston-martin-logo.png"
     }
 ]
