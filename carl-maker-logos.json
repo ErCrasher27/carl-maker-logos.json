@@ -246,5 +246,9 @@
     {
         "name": "Aston Martin",
         "logo": "https://www.carlogos.org/car-logos/aston-martin-logo.png"
+    },
+    {
+        "name": "DeLorean",
+        "logo": "https://www.carlogos.org/car-logos/delorean-logo.png"
     }
 ]
